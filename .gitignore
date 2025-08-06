@@ -1,1 +1,3 @@
 .venv
+datasets/landcover/**/*
+datasets/watershed_bounds/usgs

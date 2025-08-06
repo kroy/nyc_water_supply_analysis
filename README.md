@@ -10,3 +10,4 @@ taught by professor Mehdi Heris.
 - `pandas`
 - `seaborn`
 - `geopandas`
+- `meteostat`

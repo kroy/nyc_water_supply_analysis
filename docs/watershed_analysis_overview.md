@@ -4,6 +4,8 @@
 - [ ] Daily nyc water consumption data?
 - [ ] Are there generally agreed upon watersheds for each of the reservoirs?
 - [ ] Is inflow generally proportional to area of a watershed?
+- [ ] Differences between various reservoirs listed in dataset (eg: Ashokan East vs West)?
+- [ ] Significance of the elevation reading?
 
 ### Workings of Reservoir System
 
@@ -18,3 +20,9 @@
 - Are modern climate conditions impacting reservoir patterns
   - Or streamflow patterns in the watersheds?
 - What are the differences in land use for each of the watersheds?
+
+- Interbasin transfers:
+  - Large tunnel frmo scoharie -> ashokan
+    - drought warning curve
+    - every month dep/nj/pa meet to decide on
+    - release = to the downstream water system
