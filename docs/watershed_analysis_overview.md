@@ -26,3 +26,9 @@
     - drought warning curve
     - every month dep/nj/pa meet to decide on
     - release = to the downstream water system
+
+## ANOVA
+
+- variance in variance between watersheds with high imperm surface area
+  - then run post-hoc pairwise t-test
+  - two way ANOVA: `ols('MedianValue ~ C(boro_name) + C(NearMajorParks) + C(NearMajorParks):C(boro_name)')`
